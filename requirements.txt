@@ -1,0 +1,11 @@
+beautifulsoup4 
+bs4 
+certifi
+docker
+docker-pycreds
+get
+pip
+requests
+setuptools
+websocket-client
+
